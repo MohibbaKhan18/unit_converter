@@ -69,3 +69,5 @@ if st.button("Convert"):
         st.success(f"The result is: {result:.2f}")
     else:
         st.error("Something went wrong with the conversion.")
+
+#deleted from desktop
